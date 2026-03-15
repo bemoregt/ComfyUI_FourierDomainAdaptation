@@ -4,6 +4,14 @@ A custom ComfyUI node that applies **Fourier Domain Adaptation (FDA)** between a
 
 ---
 
+## Screenshots
+
+![Screenshot 1](ScrShot%2011.png)
+![Screenshot 2](ScrShot%2012.png)
+![Screenshot 3](ScrShot%2013.png)
+
+---
+
 ## How It Works
 
 1. Apply 2D FFT to each channel of both images.
